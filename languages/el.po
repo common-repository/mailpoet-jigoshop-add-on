@@ -1,0 +1,119 @@
+#
+# Translators:
+# prokopino <saveandwingr@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Jigoshop Add-on\n"
+"POT-Creation-Date: 2014-03-25 02:32+0100\n"
+"PO-Revision-Date: 2014-03-25 02:34+0100\n"
+"Last-Translator: Sebastien <sebastien@sebs-studio.com>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/wysija/language/"
+"el/)\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/settings-newsletters.php:19
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+#: include/settings-newsletters.php:20 include/settings.php:46
+msgid "Newsletters"
+msgstr "Ενημερωτικά δελτία"
+
+#: include/settings.php:13 mailpoet-jigoshop-addon.php:103
+msgid "MailPoet Newsletter"
+msgstr "Ενημερωτικά δελτία του MailPoet"
+
+#: include/settings.php:15
+#, fuzzy
+msgid ""
+"Now your customers can subscribe to newsletters you have created with "
+"MailPoet. Simple setup your settings below and press \"Save Changes\"."
+msgstr ""
+"Τώρα οι πελάτες σας μπορούν να εγγραφούν για να λαμβάνουν τα ενημερωτικά "
+"δελτία που θα δημιουργείτε με το MailPoet. Απλά κάντε τις επιλογές σας "
+"παρακάτω και πατήστε στο \"Αποθήκευση ρυθμίσεων\""
+
+#: include/settings.php:20 mailpoet-jigoshop-addon.php:110
+msgid "Enable subscribe on checkout"
+msgstr "Ενεργοποίηση της εγγραφής συνδρομής κατά την ολοκλήρωση αγοράς"
+
+#: include/settings.php:21 mailpoet-jigoshop-addon.php:111
+msgid "Add a subscribe checkbox to your checkout page."
+msgstr ""
+"Να προστεθεί ένα πλαίσιο για την ενεργοποίηση της εγγραφής συνδρομής στη "
+"σελίδα ολοκλήρωσης αγοράς."
+
+#: include/settings.php:28
+#, fuzzy
+msgid "Checkout Label"
+msgstr "Ετικέτα ολοκλήρωσης"
+
+#: include/settings.php:29 mailpoet-jigoshop-addon.php:119
+msgid "Enter a message to place next to the checkbox."
+msgstr ""
+"Γράψτε το κείμενο που θέλετε να εμφανίζεται δίπλα στο πλαίσιο επιλογής."
+
+#: include/settings.php:33 mailpoet-jigoshop-addon.php:61
+#: mailpoet-jigoshop-addon.php:123
+msgid "Yes, add me to your mailing list"
+msgstr "Ναι, προσθέστε με στη λίστα αποδεκτών των ενημερωτικών σας δελτίων"
+
+#: include/settings.php:48 mailpoet-jigoshop-addon.php:158
+msgid ""
+"Here is the list of newsletters you can assign the customer to when they "
+"subscribe. Simply tick the newsletters you want your customers to subscribe "
+"to and press \"Save Changes\"."
+msgstr ""
+"Εδώ βλέπετε τη λίστα των ενημερωτικών δελτίων που μπορείτε να αντιστοιχήσετε "
+"στους πελάτες σας όταν αυτοί εγγράφονται ως παραλήπτες αυτών. Απλά επιλέξτε "
+"το σχετικό πλαίσιο στο κάθε ένα που θέλετε και πατήστε στο \"Αποθήκευση "
+"Αλλαγών\""
+
+#: mailpoet-jigoshop-addon.php:105
+msgid ""
+"Now your customers can subscribe to newsletters you have created with "
+"MailPoet. Simple setup your settings below and press \"Save MailPoet Changes"
+"\"."
+msgstr ""
+"Τώρα οι πελάτες σας μπορούν να εγγραφούν για να λαμβάνουν τα ενημερωτικά "
+"δελτία που θα δημιουργείτε με το MailPoet. Απλά κάντε τις επιλογές σας "
+"παρακάτω και πατήστε στο \"Αποθήκευση ρυθμίσεων\""
+
+#: mailpoet-jigoshop-addon.php:118
+msgid "Checkbox label"
+msgstr "Ετικέτα ολοκλήρωσης"
+
+#: mailpoet-jigoshop-addon.php:131 mailpoet-jigoshop-addon.php:156
+msgid "MailPoet Lists"
+msgstr "Λίστες του MailPoet"
+
+#: mailpoet-jigoshop-addon.php:150
+msgid "Settings saved"
+msgstr "Οι ρυθμίσεις σας αποθηκεύθηκαν"
+
+#: mailpoet-jigoshop-addon.php:171
+msgid "Save Settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+#: mailpoet-jigoshop-addon.php:253
+#, php-format
+msgid ""
+"MailPoet Jigoshop Add-On requires Jigoshop. Please install and activate <a "
+"href=\"%s\">Jigoshop</a> first."
+msgstr ""
+"Το πρόσθετο του MailPoet για το πρόσθετο Jigoshop απαιτεί όπως είναι λογικό "
+"να έχετε εγκατεστημένο το σχετικό πρόσθετο, τοJigoshop. Για να μπορέσετε να "
+"συνεχίσετε, σας παρακαλούμε, εγκαταστήστε το και ενεργοποιήστε το, <a href="
+"\"%s\">Jigoshop</a>."
+
+#~ msgid "MailPoet"
+#~ msgstr "MailPoet"

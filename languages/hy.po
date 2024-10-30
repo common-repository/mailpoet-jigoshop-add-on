@@ -1,0 +1,98 @@
+#
+# Translators:
+# haykojanjado <poliped@ya.ru>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Jigoshop Add-on\n"
+"POT-Creation-Date: 2013-12-19 20:14+0100\n"
+"PO-Revision-Date: 2014-01-06 19:37+0100\n"
+"Last-Translator: haykojanjado <poliped@ya.ru>\n"
+"Language-Team: Armenian (http://www.transifex.com/projects/p/mailpoet-"
+"jigoshop-add-on/language/hy/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hy\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mailpoet-jigoshop-addon.php:61 mailpoet-jigoshop-addon.php:123
+msgid "Yes, add me to your mailing list"
+msgstr "Այո, ավելացրեք ինձ Ձեր փոստ-ցանկին"
+
+#: mailpoet-jigoshop-addon.php:87
+msgid "MailPoet"
+msgstr "MailPoet - Թարգմանեց Հայկ Ափրիկյանը"
+
+#: mailpoet-jigoshop-addon.php:103
+msgid "MailPoet Newsletter"
+msgstr "MailPoet Լուրեր"
+
+#: mailpoet-jigoshop-addon.php:105
+msgid ""
+"Now your customers can subscribe to newsletters you have created with "
+"MailPoet. Simple setup your settings below and press \"Save MailPoet Changes"
+"\"."
+msgstr ""
+"Այժմ քո հաճախորդները կարող են բաժանորդագրվել քո MailPoet-ով ստեղծած "
+"լրահոսին: Հեշտությամբ ընտրեք Ձեր ընտրանքները ներքևում և սեղմեք ՙՊահել "
+"MailPoet-ի փոփոխությունները՚:"
+
+#: mailpoet-jigoshop-addon.php:110
+msgid "Enable subscribe on checkout"
+msgstr "Միացնել չեքաութ բաժանորդագրումը"
+
+#: mailpoet-jigoshop-addon.php:111
+msgid "Add a subscribe checkbox to your checkout page."
+msgstr "Ավելացնել բաժանորդագրվելու մակնշման վանդակ Ձեր չեքաութ էջում:"
+
+#: mailpoet-jigoshop-addon.php:118
+msgid "Checkbox label"
+msgstr "Մակնշման վանդակի պիտակ"
+
+#: mailpoet-jigoshop-addon.php:119
+msgid "Enter a message to place next to the checkbox."
+msgstr "Մուտքագրեք մակնշման վանդակի կողքի հաղորդագրությունը:"
+
+#: mailpoet-jigoshop-addon.php:131 mailpoet-jigoshop-addon.php:156
+msgid "MailPoet Lists"
+msgstr "MailPoet Ցանկեր"
+
+#: mailpoet-jigoshop-addon.php:150
+msgid "Settings saved"
+msgstr "Ընտրաքները պահպանվեցին:"
+
+#: mailpoet-jigoshop-addon.php:158
+msgid ""
+"Here is the list of newsletters you can assign the customer to when they "
+"subscribe. Simply tick the newsletters you want your customers to subscribe "
+"to and press \"Save Changes\"."
+msgstr ""
+"Այստեղ է գտնվում այն տեղեկագրերի ցանկը, որը դուք կարող եք նշանակել այն "
+"հաճախորդին, որը բաժանորդագրվում է: Պարզապես կտացրեք տեղեկագրերին, որոնք "
+"ցանկանում եք հաճախորդների համար և սեղմեք ՙՊահել փոփոխություններըՙ:"
+
+#: mailpoet-jigoshop-addon.php:171
+msgid "Save Settings"
+msgstr "Պահել փոփոխությունները"
+
+#: mailpoet-jigoshop-addon.php:249
+#, php-format
+msgid ""
+"MailPoet Jigoshop Add-On requires Jigoshop. Please install and activate <a "
+"href=\"%s\">Jigoshop</a> first."
+msgstr ""
+"MailPoet Jigoshop հավելացմանը անհրաժեշտ է Jigoshop: Խնդրում ենք, նախ և առաջ, "
+"տեղակայեք և ակտիվացրեք <a href=\"%s\">Jigoshop</a>-ը:"
+
+#: include/settings-newsletters.php:19
+msgid "Enabled"
+msgstr "Միացված է"
+
+#: include/settings-newsletters.php:20
+msgid "Newsletters"
+msgstr "Լուրեր"
